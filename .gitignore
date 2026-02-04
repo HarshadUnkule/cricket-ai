@@ -1,0 +1,12 @@
+# Large files & folders
+datasets/
+runs/
+videos/
+*.mp4
+*.avi
+*.zip
+*.pt
+*.pth
+*.weights
+__pycache__/
+.env
