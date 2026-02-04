@@ -1,7 +1,0 @@
-path: C:/Users/Prathmesh Bhosale/cricket_ai/data/ball_dataset
-
-train: images/train
-val: images/val
-
-nc: 1
-names: ["ball"]
